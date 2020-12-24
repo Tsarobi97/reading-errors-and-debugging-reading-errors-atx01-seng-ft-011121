@@ -1,3 +1,4 @@
-"hello world"
+def hello world
 
-hello_world
+hello_world #nameerror
+end
